@@ -10,7 +10,7 @@ Installation
 
 Follow these steps to set up and run your project locally:
 
-Clone the Repository: Open your terminal/command prompt and navigate to the directory where you want to clone your project. Then, run the following command to clone the repository: git clone https://github.com/Pariitosh/Section-C.git.
-cd Section-C.
-npm install.
-npm run dev.
+Clone the Repository: Open your terminal/command prompt and navigate to the directory where you want to clone your project. Then, run the following command to clone the repository: git clone https://github.com/Pariitosh/Section-C.git.  
+cd Section-C.  
+npm install.  
+npm run dev.    
