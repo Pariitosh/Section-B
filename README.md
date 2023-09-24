@@ -1,8 +1,16 @@
-# React + Vite
+Assignment Section C
+Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Made with React and MaterialUI, Implemented form validation with formik and yup
+Getting Started
 
-Currently, two official plugins are available:
+Before you start, ensure that you have the following prerequisites installed on your system: Node.js: Make sure you have Node.js installed on your machine. You can download it from nodejs.org. npm or Yarn: Ensure that you have either npm (Node Package Manager) or Yarn installed. npm comes bundled with Node.js, but you can also use Yarn if you prefer. You can install Yarn globally using npm with the command: npm install -g yarn.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Installation
+
+Follow these steps to set up and run your project locally:
+
+Clone the Repository: Open your terminal/command prompt and navigate to the directory where you want to clone your project. Then, run the following command to clone the repository: git clone https://github.com/Pariitosh/Section-C.git.
+cd Section-C.
+npm install.
+npm run dev.
